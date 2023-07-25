@@ -2,7 +2,7 @@
 
 ---
 
-### Made for CS class
+### Made for a CS class
 
 Supports:
  - Multiple players
